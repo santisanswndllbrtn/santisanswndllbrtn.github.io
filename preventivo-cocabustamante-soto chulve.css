@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+.titulo{
+    font-family: "Brush Script MT";
+    font-size: 50px;
+    text-align: center;  
+    color: rgba(58, 216, 155, 0.493);
+}
+.titulo2{
+    font-family: "Comic Sans";
+    font-size: 40px;
+    text-align: center;  
+    color: rgba(165, 165, 52, 0.801);
+}
+.sub1{
+    text-align: left;
+    font-size: 20px;
+    text-align: center;  
+    color: rgba(194, 206, 204, 0.555);
+}
+.h1{
+    text-align: left;
+    font-family: "fantasy";
+    font-size: 20px;
+    color: rgba(243, 159, 49, 0.795);
+    border-radius: 20px;
+    background-color: antiquewhite;
+}
