@@ -27,3 +27,42 @@ body{
     border-radius: 20px;
     background-color: antiquewhite;
 }
+.text{
+    text-align: center;
+    position: relative;
+    right: -540px;
+    font-family: "fantasy";
+    font-size: 50px;
+    color: rgba(243, 159, 49, 0.795);
+    border-radius: 20px;
+    background-color: antiquewhite;
+    width: 25%;
+    
+}   
+img{
+    position: relative;
+    right: -555px;
+}
+.nombres{
+    text-align: center;
+    position: relative;
+    right: 5px;
+    font-family: "fantasy";
+    font-size: 50px;
+    color: rgba(243, 159, 49, 0.795);
+    border-radius: 20px;
+    background-color: rgba(215, 250, 218, 0.534);
+    width: 45%;
+}
+.link{
+    text-align: center;
+    position: relative ;
+    TOP: -200px;
+    right: -700px;
+    font-family: "fantasy";
+    font-size: 50px;
+    color: rgba(243, 159, 49, 0.795);
+    border-radius: 20px;
+    background-color: rgba(215, 250, 218, 0.534);
+    width: 45%;
+}
